@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Practice\homework\Work3_numbersmax\bin\Debug\net6.0\Work3_numbersmax.exe
+C:\Users\User\Desktop\Practice\homework\Work3_numbersmax\bin\Debug\net6.0\Work3_numbersmax.deps.json
+C:\Users\User\Desktop\Practice\homework\Work3_numbersmax\bin\Debug\net6.0\Work3_numbersmax.runtimeconfig.json
+C:\Users\User\Desktop\Practice\homework\Work3_numbersmax\bin\Debug\net6.0\Work3_numbersmax.dll
+C:\Users\User\Desktop\Practice\homework\Work3_numbersmax\bin\Debug\net6.0\ref\Work3_numbersmax.dll
+C:\Users\User\Desktop\Practice\homework\Work3_numbersmax\bin\Debug\net6.0\Work3_numbersmax.pdb
+C:\Users\User\Desktop\Practice\homework\Work3_numbersmax\obj\Debug\net6.0\Work3_numbersmax.GlobalUsings.g.cs
+C:\Users\User\Desktop\Practice\homework\Work3_numbersmax\obj\Debug\net6.0\Work3_numbersmax.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practice\homework\Work3_numbersmax\obj\Debug\net6.0\Work3_numbersmax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Practice\homework\Work3_numbersmax\obj\Debug\net6.0\Work3_numbersmax.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Practice\homework\Work3_numbersmax\obj\Debug\net6.0\Work3_numbersmax.AssemblyInfo.cs
+C:\Users\User\Desktop\Practice\homework\Work3_numbersmax\obj\Debug\net6.0\Work3_numbersmax.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practice\homework\Work3_numbersmax\obj\Debug\net6.0\Work3_numbersmax.dll
+C:\Users\User\Desktop\Practice\homework\Work3_numbersmax\obj\Debug\net6.0\ref\Work3_numbersmax.dll
+C:\Users\User\Desktop\Practice\homework\Work3_numbersmax\obj\Debug\net6.0\Work3_numbersmax.pdb
+C:\Users\User\Desktop\Practice\homework\Work3_numbersmax\obj\Debug\net6.0\Work3_numbersmax.genruntimeconfig.cache
